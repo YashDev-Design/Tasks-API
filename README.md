@@ -18,7 +18,7 @@ This project provides endpoints to create, read, update, and delete tasks. It is
 3. **Import the Database**
    - Open phpMyAdmin (`http://localhost/phpmyadmin`).
    - Create a database (e.g., `tasks_db`).
-   - Import the provided SQL file (if available) to set up the `tasks` table.
+   - Import the provided SQL file in db folder named (schema ans seed.sql) to set up the `tasks` table.
 
 4. **Configure Database Connection**
    - Open `db.php` in the project folder.
