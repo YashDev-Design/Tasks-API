@@ -131,7 +131,7 @@ http://localhost/tasks-api/
 ```bash
 python3 api_with_python.py
 
-5. The script will execute predefined functions to demonstrate each API operation. You can uncomment specific function calls in the `if __name__ == "__main__":` block to test individual operations.
+ 5. The script will execute predefined functions to demonstrate each API operation. You can uncomment specific function calls in the `if __name__ == "__main__":` block to test individual operations.
 
 ---
 ```
